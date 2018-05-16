@@ -1,5 +1,7 @@
 # Simple-Facial-Emotions-Detection
 
+
+
 ### Language 
 - Python 3.6
 
@@ -8,6 +10,8 @@
 - Keras
 
 ## Project
+
+The goal of this project is to create an algorithm that can detect a person's facial expressions from a laptop's camera.
 
 1 - Get a dataset which contains images with labels.
 
