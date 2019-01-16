@@ -6,8 +6,11 @@
 - Python 3.6
 
 ### Libraries
+- numpy
 - OpenCV
-- Keras
+- Tensorflow 1.8.0
+- Keras 2.1.5
+- h5py-2.9.0
 
 ## Project
 
