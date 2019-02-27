@@ -9,7 +9,7 @@
 - numpy
 - OpenCV
 - Tensorflow 1.8.0
-- Keras 2.1.5
+- Keras 2.0.2
 - h5py-2.9.0
 
 ## Project
